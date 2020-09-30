@@ -21,7 +21,6 @@ const appRoutes: Routes = [
     AppComponent,
     ProductPageComponent,
     ProductDescriptionComponent,
-    ProductService,
     ProductTracklistingComponent,
     ProductListComponent
   ],
